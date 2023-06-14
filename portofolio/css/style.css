@@ -1,0 +1,70 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 120px;
+}
+
+.jumbroton img {
+    width: 200px;
+    border: 2px solid white ;
+}
+
+hr {
+    width: 250px;
+    border-top: 3px solid rgb(0, 0, 0);
+    margin: 20px auto;
+    opacity: 1;
+}
+
+.about {
+    margin-top: 25px;
+}
+
+section {
+    min-height: 400px;
+}
+
+.portofolio {
+    background-color: #212529;
+}
+
+.portofolio hr {
+    width: 250px;
+    border-top: 3px solid rgb(255, 255, 255);
+    margin: 20px auto;
+    opacity: 1;
+}
+
+.portofolio h2 {
+    margin-top: 20px;
+}
+
+.thumbnail img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.contact {
+    min-height: 800px;
+}
+.contact h2 {
+    margin-top: 20px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 120px;
+    padding-top: 30px;
+}
+
+footer p{
+    color: black;
+    font-size: 0.9ms;
+
+}
